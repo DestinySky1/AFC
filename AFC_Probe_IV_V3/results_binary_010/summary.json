@@ -1,0 +1,14 @@
+{
+  "calibration_seconds": 10,
+  "probe_rms_requested": 0.1,
+  "probe_kind": "binary",
+  "trials": 10,
+  "true_path_taps": 128,
+  "nfce_mean": 0.3296783154001051,
+  "asg_db_mean": 5.72159889773407,
+  "asg_db_min": 3.32837004610818,
+  "heldout_echo_suppression_mean_db": 5.182304319624782,
+  "positive_asg_trials": 10,
+  "nfce_below_1_trials": 10,
+  "important_limit": "Simulated measured FIR; hardware/acoustic calibration not performed"
+}

@@ -1,0 +1,25 @@
+{
+  "seconds": 60,
+  "probe_rms": 0.05,
+  "trials": 20,
+  "initial_seed": 20661102,
+  "temperature_factor": 3.0,
+  "use_exact_moments": true,
+  "crossfit_gain_calibration": false,
+  "v2_mean_nfce": 0.16669192087431414,
+  "v3_mean_nfce": 0.14287314318983738,
+  "v2_mean_asg_db": 9.145432918559521,
+  "v3_mean_asg_db": 9.746624599678883,
+  "v3_min_asg_db": 7.875343603558093,
+  "mean_asg_improvement_db": 0.6011916811193625,
+  "asg_delta_approx_95ci": [
+    0.08280679192250695,
+    1.1195765703162182
+  ],
+  "v3_vs_v2_positive_improvement_count": 14,
+  "v3_positive_asg_count": 20,
+  "v3_asg_over_10_count": 8,
+  "v2_heldout_echo_mean_db": 8.236793359221583,
+  "v3_heldout_echo_mean_db": 8.870467304709518,
+  "limit": "Single measured-FIR simulated feedback path, synthetic colored source, no hardware assessment"
+}

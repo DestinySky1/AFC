@@ -1,0 +1,19 @@
+{
+  "seconds": 120,
+  "requested_probe_rms": 0.05,
+  "trials": 20,
+  "initial_seed": 20461102,
+  "baseline_mean_nfce": 0.1623154860892531,
+  "optimized_mean_nfce": 0.10646051058359911,
+  "baseline_mean_asg_db": 8.410849855507283,
+  "optimized_mean_asg_db": 11.230487837447878,
+  "optimized_min_asg_db": 8.627239906750923,
+  "mean_asg_improvement_db": 2.819637981940594,
+  "optimized_positive_asg_trials": 20,
+  "optimized_asg_above_10_trials": 15,
+  "optimized_nfce_below_0_1_trials": 8,
+  "baseline_heldout_mean_echo_db": 8.087276987560319,
+  "optimized_heldout_mean_echo_db": 10.111329883596206,
+  "selection_uses_true_path": false,
+  "test_limit": "Closed-loop measured-FIR simulation, not an audio-device trial"
+}
